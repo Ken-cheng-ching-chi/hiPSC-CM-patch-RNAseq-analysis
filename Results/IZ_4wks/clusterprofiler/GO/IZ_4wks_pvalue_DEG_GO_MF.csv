@@ -1,0 +1,3 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0045236","CXCR chemokine receptor binding","4/169","13/12722",1.95700255232527e-05,0.00839554094947539,0.00815761063916637,"Cxcl9/Cxcl10/Cxcl1/Cxcl3",4
+"GO:0005125","cytokine activity","9/169","149/12722",0.000165621430728404,0.0355257968912427,0.0345189929307621,"Cxcl9/Bmp3/Cxcl10/Ntn1/Grem1/Cxcl1/Cxcl3/Il1rn/Faslg",9

@@ -1,0 +1,3 @@
+comparison,design,filter_threshold,DEG_threshold,total_tested_genes,significant_DEGs,upregulated_in_patch,downregulated_in_patch
+IZ all time points patch vs control,~ time + treatment,rowSums >= 1,padj < 0.05 and |log2FC| > 1,21056,1,1,0
+IZ all time points patch vs control,~ time + treatment,rowSums >= 1,raw pvalue < 0.05 and |log2FC| > log2(1.5),21056,201,117,84

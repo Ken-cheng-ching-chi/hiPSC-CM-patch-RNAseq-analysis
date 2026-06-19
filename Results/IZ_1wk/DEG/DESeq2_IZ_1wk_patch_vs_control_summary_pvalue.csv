@@ -1,0 +1,2 @@
+"comparison","design","filter_threshold","DEG_threshold","total_tested_genes","significant_DEGs","upregulated_in_patch","downregulated_in_patch"
+"IZ 1wk patch vs control","~ treatment","rowSums >= 1","raw pvalue < 0.05 and |log2FC| > log2(1.5)",19519,292,174,118

@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0061844","antimicrobial humoral immune response mediated by antimicrobial peptide","7/174","63/13856",1.33572498688501e-05,0.0388695971183537,0.0366410454297087,"Cxcl9/Cxcl10/Pla2g1b/Cxcl1/Mmp7/Cxcl3/Lgals3",7

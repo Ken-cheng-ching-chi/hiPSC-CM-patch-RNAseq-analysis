@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0033176","proton-transporting V-type ATPase complex","4/179","22/14169",0.000150797513783991,0.0393581510976216,0.0388898851337661,"Atp6v1c2/Atp6ap1l/Atp6v1g2/Atp6v0d2",4

@@ -1,0 +1,4 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0005833","hemoglobin complex","9/249","11/14230",7.10561651530526e-15,2.06773440595383e-12,1.91477666096647e-12,"Hba-a1/Hba-a2/Hbq1b/Hba-a3/Hbb/Hbb-b1/Hbb-bs/LOC100134871/Hbb-b2",9
+"GO:0031012","extracellular matrix","20/249","359/14230",5.25041934628668e-06,0.000530915211526154,0.000491641505338019,"Mmp12/Mmp7/Comp/Acan/Fbln1/Reln/Lgals3/Thbs4/Mmrn1/Angptl7/Mmp3/Il1rl1/Lingo3/Efemp1/Fcna/Ptx3/Mepe/Adamts20/Nyx/Ecm2",20
+"GO:0030312","external encapsulating structure","20/249","360/14230",5.47335269614592e-06,0.000530915211526154,0.000491641505338019,"Mmp12/Mmp7/Comp/Acan/Fbln1/Reln/Lgals3/Thbs4/Mmrn1/Angptl7/Mmp3/Il1rl1/Lingo3/Efemp1/Fcna/Ptx3/Mepe/Adamts20/Nyx/Ecm2",20

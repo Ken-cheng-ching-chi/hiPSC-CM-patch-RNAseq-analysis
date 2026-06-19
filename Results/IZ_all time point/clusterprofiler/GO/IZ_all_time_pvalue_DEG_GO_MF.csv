@@ -1,0 +1,15 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0022839","monoatomic ion gated channel activity","11/117","270/13189",2.75049627601745e-05,0.00328818091302158,0.00290573491988912,"Clcn4/Kcnn3/Asic3/Clca2/Kcnip1/Kcnt2/Mcoln2/Gabrr1/Trpa1/Kcna7/Chrnb4",11
+"GO:0005216","monoatomic ion channel activity","13/117","375/13189",2.75580773228206e-05,0.00328818091302158,0.00290573491988912,"Clcn4/Gjd3/Cldn4/Kcnn3/Asic3/Clca2/Kcnip1/Kcnt2/Mcoln2/Gabrr1/Trpa1/Kcna7/Chrnb4",13
+"GO:0022836","gated channel activity","11/117","273/13189",3.04461195650147e-05,0.00328818091302158,0.00290573491988912,"Clcn4/Kcnn3/Asic3/Clca2/Kcnip1/Kcnt2/Mcoln2/Gabrr1/Trpa1/Kcna7/Chrnb4",11
+"GO:0015276","ligand-gated monoatomic ion channel activity","7/117","117/13189",8.00737665301426e-05,0.00434954372767498,0.00384365137728264,"Kcnn3/Asic3/Clca2/Mcoln2/Gabrr1/Trpa1/Chrnb4",7
+"GO:0015267","channel activity","13/117","420/13189",8.80795176317727e-05,0.00434954372767498,0.00384365137728264,"Clcn4/Gjd3/Cldn4/Kcnn3/Asic3/Clca2/Kcnip1/Kcnt2/Mcoln2/Gabrr1/Trpa1/Kcna7/Chrnb4",13
+"GO:0022803","passive transmembrane transporter activity","13/117","420/13189",8.80795176317727e-05,0.00434954372767498,0.00384365137728264,"Clcn4/Gjd3/Cldn4/Kcnn3/Asic3/Clca2/Kcnip1/Kcnt2/Mcoln2/Gabrr1/Trpa1/Kcna7/Chrnb4",13
+"GO:0022834","ligand-gated channel activity","7/117","120/13189",9.39716237460645e-05,0.00434954372767498,0.00384365137728264,"Kcnn3/Asic3/Clca2/Mcoln2/Gabrr1/Trpa1/Chrnb4",7
+"GO:0004653","polypeptide N-acetylgalactosaminyltransferase activity","3/117","15/13189",0.000286407518059396,0.0115995044814055,0.0102503743305468,"Galnt17/Galnt6/Galnt14",3
+"GO:0005254","chloride channel activity","5/117","68/13189",0.000336616984691655,0.0121182114488996,0.0107087508580269,"Clcn4/Cldn4/Clca2/Kcnt2/Gabrr1",5
+"GO:0005253","monoatomic anion channel activity","5/117","77/13189",0.000598891081418946,0.0194040710379738,0.0171471972785214,"Clcn4/Cldn4/Clca2/Kcnt2/Gabrr1",5
+"GO:0099094","ligand-gated monoatomic cation channel activity","5/117","87/13189",0.00104406797283208,0.0307525475634177,0.0271757405368733,"Kcnn3/Asic3/Mcoln2/Trpa1/Chrnb4",5
+"GO:0048018","receptor ligand activity","10/117","371/13189",0.0016964984534068,0.0450507376964074,0.0398109183022183,"Il24/Il1rn/Ntn1/Ccl9/Alkal2/Gip/Fgf7/Cxcl3/Dpp4/Reg3b",10
+"GO:0008376","acetylgalactosaminyltransferase activity","3/117","28/13189",0.00189601681604452,0.0450507376964074,0.0398109183022183,"Galnt17/Galnt6/Galnt14",3
+"GO:0030546","signaling receptor activator activity","10/117","378/13189",0.00194663681404229,0.0450507376964074,0.0398109183022183,"Il24/Il1rn/Ntn1/Ccl9/Alkal2/Gip/Fgf7/Cxcl3/Dpp4/Reg3b",10

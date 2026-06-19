@@ -1,0 +1,12 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0008009","chemokine activity","4/102","35/12682",0.000170508369461321,0.0304913115521987,0.0267641891217654,"Ccl12/Ccl4/Ccl21/Cxcl10",4
+"GO:0030545","signaling receptor regulator activity","11/102","375/12682",0.00020881402258748,0.0304913115521987,0.0267641891217654,"Vegfd/Efemp1/Ccl12/Tnfrsf11b/Reg3g/Dpp4/Sfrp2/Ccl4/Ccl21/Dkk2/Cxcl10",11
+"GO:0048018","receptor ligand activity","10/102","341/12682",0.000411536236416872,0.0304913115521987,0.0267641891217654,"Vegfd/Efemp1/Ccl12/Tnfrsf11b/Reg3g/Dpp4/Sfrp2/Ccl4/Ccl21/Cxcl10",10
+"GO:0030546","signaling receptor activator activity","10/102","348/12682",0.000482692266291957,0.0304913115521987,0.0267641891217654,"Vegfd/Efemp1/Ccl12/Tnfrsf11b/Reg3g/Dpp4/Sfrp2/Ccl4/Ccl21/Cxcl10",10
+"GO:0042379","chemokine receptor binding","4/102","46/12682",0.000496601165345256,0.0304913115521987,0.0267641891217654,"Ccl12/Ccl4/Ccl21/Cxcl10",4
+"GO:0004497","monooxygenase activity","5/102","87/12682",0.000668561861068584,0.0305283518376395,0.0267967017673091,"Fmo1/Fmo2/Cyp2j4/Cyp2j3/Fmo3",5
+"GO:0005540","hyaluronic acid binding","3/102","22/12682",0.000696086198252366,0.0305283518376395,0.0267967017673091,"Cemip/Stab1/Hapln3",3
+"GO:0005539","glycosaminoglycan binding","7/102","200/12682",0.00113967955535708,0.0436191168562204,0.0382873098412221,"Cemip/Reg3g/Stab1/Mmp7/Hapln3/Aoc1/Cxcl10",7
+"GO:0038024","cargo receptor activity","4/102","59/12682",0.00127873632477519,0.0436191168562204,0.0382873098412221,"Olr1/Stab1/Msr1/Surf4",4
+"GO:0016709","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen","3/102","29/12682",0.00158557949462666,0.0442520822591259,0.0388429043659737,"Fmo1/Fmo2/Fmo3",3
+"GO:0048020","CCR chemokine receptor binding","3/102","29/12682",0.00158557949462666,0.0442520822591259,0.0388429043659737,"Ccl12/Ccl4/Ccl21",3

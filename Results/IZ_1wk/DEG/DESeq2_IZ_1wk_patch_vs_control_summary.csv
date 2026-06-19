@@ -1,0 +1,2 @@
+"comparison","design","filter_threshold","total_tested_genes","significant_DEGs_padj_0.05_log2FC_1","upregulated_in_patch","downregulated_in_patch"
+"IZ 1wk-point patch vs control","~ time + treatment","rowSums >= 1",19519,18,14,4

@@ -1,0 +1,6 @@
+category,subcategory,ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,qvalue,geneID,Count
+Human Diseases,Infectious disease: parasitic,rno05144,Malaria,10/138,62/7196,2.23E-07,5.38E-05,5.21E-05,25304/25632/360504/287167/309684/29220/24440/361619/287562/497796,10
+Human Diseases,Immune disease,rno05323,Rheumatoid arthritis,8/138,74/7196,7.75E-05,0.009338163,0.009054694,297932/25732/117596/309684/498666/287562/171045/24984,8
+Metabolism,Xenobiotics biodegradation and metabolism,rno00982,Drug metabolism - cytochrome P450,6/138,53/7196,0.000488292,0.02969729,0.0287958,246245/84493/25256/54349/24421/501110,6
+Human Diseases,Infectious disease: parasitic,rno05143,African trypanosomiasis,5/138,35/7196,0.000492901,0.02969729,0.0287958,25632/360504/287167/24440/361619,5
+Organismal Systems,Digestive system,rno04975,Fat digestion and absorption,5/138,39/7196,0.000822106,0.039625523,0.038422652,29692/252900/25073/681211/114628,5

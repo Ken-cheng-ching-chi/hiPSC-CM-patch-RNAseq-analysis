@@ -1,0 +1,349 @@
+ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,qvalue,geneID,Count
+GO:0030198,extracellular matrix organization,21/132,293/13664,6.48E-13,6.23E-10,4.56E-10,Col11a1/Lox/Col1a1/Sfrp2/Fn1/Adamts14/Col1a2/Col16a1/Eln/Efemp2/Col5a3/Scara3/Tnfrsf11b/Mmp14/Ptx3/Acan/Itga8/Slc39a8/Aplp1/Grem1/Lgals3,21
+GO:0045229,external encapsulating structure organization,21/132,293/13664,6.48E-13,6.23E-10,4.56E-10,Col11a1/Lox/Col1a1/Sfrp2/Fn1/Adamts14/Col1a2/Col16a1/Eln/Efemp2/Col5a3/Scara3/Tnfrsf11b/Mmp14/Ptx3/Acan/Itga8/Slc39a8/Aplp1/Grem1/Lgals3,21
+GO:0043062,extracellular structure organization,21/132,294/13664,6.92E-13,6.23E-10,4.56E-10,Col11a1/Lox/Col1a1/Sfrp2/Fn1/Adamts14/Col1a2/Col16a1/Eln/Efemp2/Col5a3/Scara3/Tnfrsf11b/Mmp14/Ptx3/Acan/Itga8/Slc39a8/Aplp1/Grem1/Lgals3,21
+GO:0007160,cell-matrix adhesion,15/132,217/13664,2.66E-09,1.80E-06,1.31E-06,Tnn/Thy1/Fn1/Itga11/Serpine1/Col16a1/Efemp2/Col5a3/Hpse/Mmp14/Itgb2/Plau/Itga8/Wnt4/Grem1,15
+GO:0030199,collagen fibril organization,9/132,59/13664,4.65E-09,2.51E-06,1.84E-06,Col11a1/Lox/Col1a1/Sfrp2/Adamts14/Col1a2/Efemp2/Acan/Grem1,9
+GO:0050764,regulation of phagocytosis,11/132,107/13664,6.33E-09,2.85E-06,2.09E-06,Itgb2/Trem2/Ptx3/Cd300lf/Clec7a/Slc11a1/Siglec1/Scarb1/Fcgr2b/Hck/Cd300a,11
+GO:0002683,negative regulation of immune system process,20/132,461/13664,1.71E-08,6.62E-06,4.84E-06,Thy1/Tmem178a/Ccn3/Fn1/Enpp3/Slit2/Il1rl1/Snai2/Tnfrsf11b/Svep1/Trem2/Cd300lf/Cd33/Arg1/Fcgr2b/Gpnmb/Cd300a/Grem1/Cd68/Lgals3,20
+GO:0031589,cell-substrate adhesion,17/132,349/13664,4.23E-08,1.41E-05,1.03E-05,Tnn/Col1a1/Thy1/Fn1/Ptn/Itga11/Serpine1/Col16a1/Efemp2/Col5a3/Hpse/Mmp14/Itgb2/Plau/Itga8/Wnt4/Grem1,17
+GO:0030100,regulation of endocytosis,16/132,309/13664,4.70E-08,1.41E-05,1.03E-05,Serpine1/Sfrp4/Scamp5/Itgb2/Trem2/Ptx3/Cd300lf/Clec7a/Slc11a1/Siglec1/Scarb1/Fcgr2b/Hck/Cd300a/Grem1/Lgals3,16
+GO:0006909,phagocytosis,13/132,203/13664,8.00E-08,1.98E-05,1.45E-05,Itgb2/Trem2/Ptx3/Cd300lf/Clec7a/Slc11a1/Siglec1/Scarb1/Abca1/Spon2/Fcgr2b/Hck/Cd300a,13
+GO:0033627,cell adhesion mediated by integrin,9/132,81/13664,8.07E-08,1.98E-05,1.45E-05,Sfrp2/Ccn3/Itga11/Serpine1/Col16a1/Snai2/Itgb2/Plau/Itga8,9
+GO:2000027,regulation of animal organ morphogenesis,10/132,111/13664,1.13E-07,2.55E-05,1.87E-05,Cthrc1/Sfrp2/Ptk7/Snai2/Tnfrsf11b/Ror2/Agtr1a/Runx2/Wnt4/Grem1,10
+GO:0001503,ossification,17/132,413/13664,4.69E-07,9.76E-05,7.14E-05,Tnn/Col11a1/Lox/Col1a1/Cthrc1/Sfrp2/Fn1/Ptn/Col1a2/Snai2/Mmp14/Ror2/Acan/Runx2/Gpnmb/Wnt4/Grem1,17
+GO:0002685,regulation of leukocyte migration,12/132,216/13664,1.18E-06,0.000228628,0.000167296,Thy1/Ccn3/Plvap/Ptn/Serpine1/Slit2/Mmp14/Adam8/Trem2/Cd300a/Grem1/Lgals3,12
+GO:0001525,angiogenesis,18/132,500/13664,1.47E-06,0.000256963,0.00018803,Tnn/Thy1/Sfrp2/Ccn3/Fn1/Anpep/Ptn/Serpine1/Srpx2/Slit2/Hpse/Mmp14/Adam8/Itgb2/Agtr1a/Plau/Grem1/Lgals3,18
+GO:0050900,leukocyte migration,15/132,352/13664,1.52E-06,0.000256963,0.00018803,Thy1/Ccn3/Plvap/Ptn/Serpine1/Slit2/Mmp14/Adam8/Itgb2/Ror2/Trem2/Slamf9/Cd300a/Grem1/Lgals3,15
+GO:0002274,myeloid leukocyte activation,12/132,240/13664,3.56E-06,0.000565579,0.000413857,Thy1/Fn1/Enpp3/Serpine1/Il1rl1/Itgb2/Stxbp2/Trem2/Cd300lf/Slc11a1/Cd33/Cd300a,12
+GO:0048771,tissue remodeling,11/132,202/13664,4.08E-06,0.000613344,0.000448809,Cthrc1/Ptn/Eln/Sfrp4/Tnfrsf11b/Mmp14/Adam8/Ptprv/Arg1/Gpnmb/Grem1,11
+GO:0006910,"phagocytosis, recognition",5/132,28/13664,6.41E-06,0.00087722,0.000641897,Trem2/Ptx3/Clec7a/Scarb1/Spon2,5
+GO:0097529,myeloid leukocyte migration,11/132,212/13664,6.49E-06,0.00087722,0.000641897,Ccn3/Serpine1/Slit2/Mmp14/Adam8/Itgb2/Ror2/Trem2/Cd300a/Grem1/Lgals3,11
+GO:0006929,substrate-dependent cell migration,5/132,29/13664,7.69E-06,0.000945386,0.000691777,Fn1/Itga11/Slit2/Snai2/Adam8,5
+GO:0050766,positive regulation of phagocytosis,7/132,75/13664,7.69E-06,0.000945386,0.000691777,Itgb2/Trem2/Ptx3/Cd300lf/Clec7a/Slc11a1/Fcgr2b,7
+GO:0045807,positive regulation of endocytosis,10/132,178/13664,8.66E-06,0.001017816,0.000744777,Serpine1/Sfrp4/Itgb2/Trem2/Ptx3/Cd300lf/Clec7a/Slc11a1/Fcgr2b/Grem1,10
+GO:0035567,non-canonical Wnt signaling pathway,6/132,51/13664,9.14E-06,0.001029793,0.000753541,Cthrc1/Sfrp2/Ptk7/Sfrp4/Ror2/Wnt4,6
+GO:0010810,regulation of cell-substrate adhesion,11/132,222/13664,1.01E-05,0.001086908,0.000795334,Col1a1/Thy1/Fn1/Ptn/Serpine1/Col16a1/Efemp2/Mmp14/Plau/Wnt4/Grem1,11
+GO:0032963,collagen metabolic process,8/132,112/13664,1.26E-05,0.00130529,0.000955133,Col1a1/Fn1/Serpine1/Col1a2/Mmp14/Ctsb/Arg1/Wnt4,8
+GO:0006911,"phagocytosis, engulfment",6/132,57/13664,1.76E-05,0.001759072,0.001287184,Itgb2/Trem2/Clec7a/Abca1/Fcgr2b/Cd300a,6
+GO:0002062,chondrocyte differentiation,8/132,118/13664,1.84E-05,0.001776606,0.001300015,Col11a1/Sfrp2/Ccn3/Snai2/Ror2/Acan/Runx2/Grem1,8
+GO:0001952,regulation of cell-matrix adhesion,8/132,123/13664,2.49E-05,0.002313876,0.001693157,Thy1/Serpine1/Col16a1/Efemp2/Mmp14/Plau/Wnt4/Grem1,8
+GO:0019221,cytokine-mediated signaling pathway,14/132,392/13664,2.57E-05,0.002313876,0.001693157,Plvap/Slit3/Slit2/Il1rl1/Irf7/Mx1/Trem2/Cd300lf/Il17re/Lilrb3/Lilrb2/Arg1/Oasl/Slc1a1,14
+GO:0006935,chemotaxis,14/132,394/13664,2.72E-05,0.00236846,0.001733098,Lox/Ccn3/Fn1/Slit3/Ptn/Serpine1/Slit2/Adam8/Itgb2/Trem2/Agtr1a/Slamf9/Grem1/Lgals3,14
+GO:0042330,taxis,14/132,396/13664,2.87E-05,0.002425951,0.001775166,Lox/Ccn3/Fn1/Slit3/Ptn/Serpine1/Slit2/Adam8/Itgb2/Trem2/Agtr1a/Slamf9/Grem1/Lgals3,14
+GO:0008037,cell recognition,8/132,126/13664,2.96E-05,0.002426372,0.001775475,Tnn/Emb/Trem2/Ptx3/Clec7a/Scarb1/Spon2/Lgals3,8
+GO:0099024,plasma membrane invagination,6/132,65/13664,3.75E-05,0.00298511,0.002184326,Itgb2/Trem2/Clec7a/Abca1/Fcgr2b/Cd300a,6
+GO:0071496,cellular response to external stimulus,14/132,411/13664,4.31E-05,0.003330342,0.002436946,Col1a1/Sfrp2/Ptn/Serpine1/Cdkn2b/Eln/Il1rl1/Snai2/Tnc/Ctsb/Asns/Runx2/Wnt4/Cd68,14
+GO:0036120,cellular response to platelet-derived growth factor stimulus,5/132,42/13664,4.98E-05,0.003481133,0.002547286,Fn1/Ptn/Serpine1/Slit2/Spon2,5
+GO:0001649,osteoblast differentiation,10/132,218/13664,4.98E-05,0.003481133,0.002547286,Tnn/Lox/Col1a1/Cthrc1/Sfrp2/Snai2/Runx2/Gpnmb/Wnt4/Grem1,10
+GO:0050866,negative regulation of cell activation,10/132,219/13664,5.18E-05,0.003481133,0.002547286,Fn1/Enpp3/Trem2/Cd300lf/Cd33/Arg1/Fcgr2b/Gpnmb/Cd300a/Lgals3,10
+GO:0031670,cellular response to nutrient,6/132,69/13664,5.28E-05,0.003481133,0.002547286,Col1a1/Ptn/Cdkn2b/Eln/Snai2/Tnc,6
+GO:0045806,negative regulation of endocytosis,6/132,69/13664,5.28E-05,0.003481133,0.002547286,Scamp5/Cd300lf/Siglec1/Fcgr2b/Cd300a/Lgals3,6
+GO:0071300,cellular response to retinoic acid,6/132,69/13664,5.28E-05,0.003481133,0.002547286,Col1a1/Col1a2/Eln/Ptk7/Tnc/Abca1,6
+GO:0060070,canonical Wnt signaling pathway,11/132,268/13664,5.73E-05,0.00368574,0.002697005,Tnn/Col1a1/Cthrc1/Sfrp2/Ptk7/Sdc1/Sfrp4/Snai2/Ror2/Wnt4/Grem1,11
+GO:0090287,regulation of cellular response to growth factor stimulus,11/132,273/13664,6.76E-05,0.004105859,0.003004424,Lox/Sfrp2/Cdkn2b/Cadm4/Slit2/Sfrp4/Fst/Runx2/Itga8/Wnt4/Grem1,11
+GO:0051928,positive regulation of calcium ion transport,7/132,105/13664,6.94E-05,0.004105859,0.003004424,Cemip/Thy1/Serpine1/Ramp3/Trpv2/Agtr1a/Lgals3,7
+GO:0036119,response to platelet-derived growth factor,5/132,45/13664,6.99E-05,0.004105859,0.003004424,Fn1/Ptn/Serpine1/Slit2/Spon2,5
+GO:0071295,cellular response to vitamin,5/132,45/13664,6.99E-05,0.004105859,0.003004424,Col1a1/Ptn/Eln/Snai2/Tnc,5
+GO:0010324,membrane invagination,6/132,73/13664,7.27E-05,0.004178446,0.003057539,Itgb2/Trem2/Clec7a/Abca1/Fcgr2b/Cd300a,6
+GO:0050765,negative regulation of phagocytosis,4/132,24/13664,7.61E-05,0.004285831,0.003136116,Cd300lf/Siglec1/Fcgr2b/Cd300a,4
+GO:0035987,endodermal cell differentiation,5/132,46/13664,7.78E-05,0.004291257,0.003140087,Col12a1/Col11a1/Fn1/Mmp14/Itgb2,5
+GO:0045576,mast cell activation,6/132,75/13664,8.46E-05,0.004496545,0.003290304,Thy1/Enpp3/Serpine1/Stxbp2/Cd300lf/Cd300a,6
+GO:0071216,cellular response to biotic stimulus,11/132,280/13664,8.48E-05,0.004496545,0.003290304,Fn1/Serpine1/Trem2/Clec7a/Scarb1/Abca1/Arg1/Spon2/Plau/Fcgr2b/Cd68,11
+GO:0071774,response to fibroblast growth factor,7/132,110/13664,9.33E-05,0.004757613,0.003481339,Col1a1/Serpine1/Eln/Snai2/Tnc/Runx2/Wnt4,7
+GO:0031960,response to corticosteroid,11/132,283/13664,9.33E-05,0.004757613,0.003481339,Fn1/Slit3/Serpine1/Eln/Sdc1/Slit2/Sfrp4/Ctsb/Asns/Agtr1a/Arg1,11
+GO:0060326,cell chemotaxis,11/132,285/13664,9.93E-05,0.004944664,0.003618211,Lox/Ccn3/Ptn/Serpine1/Slit2/Adam8/Itgb2/Agtr1a/Slamf9/Grem1/Lgals3,11
+GO:0002687,positive regulation of leukocyte migration,8/132,150/13664,0.000102204,0.004944664,0.003618211,Thy1/Plvap/Ptn/Serpine1/Mmp14/Adam8/Trem2/Lgals3,8
+GO:0030336,negative regulation of cell migration,11/132,286/13664,0.000102442,0.004944664,0.003618211,Tnn/Thy1/Sfrp2/Ccn3/Ptn/Serpine1/Slit2/Acan/Cd300a/Wnt4/Grem1,11
+GO:0090025,regulation of monocyte chemotaxis,4/132,26/13664,0.000105487,0.004989197,0.003650798,Ccn3/Serpine1/Slit2/Grem1,4
+GO:0022612,gland morphogenesis,8/132,151/13664,0.000107056,0.004989197,0.003650798,Ptn/Slit2/Sfrp4/Snai2/Tnc/Arg1/Plau/Wnt4,8
+GO:0002548,monocyte chemotaxis,5/132,50/13664,0.000116585,0.005252145,0.003843207,Ccn3/Serpine1/Slit2/Grem1/Lgals3,5
+GO:0009620,response to fungus,5/132,50/13664,0.000116585,0.005252145,0.003843207,Cotl1/Ptx3/Clec7a/Arg1/Spon2,5
+GO:0033688,regulation of osteoblast proliferation,4/132,27/13664,0.00012291,0.005379456,0.003936366,Tnn/Cthrc1/Hpse/Grem1,4
+GO:0001704,formation of primary germ layer,7/132,115/13664,0.000123391,0.005379456,0.003936366,Col12a1/Col11a1/Sfrp2/Fn1/Mmp14/Itgb2/Itga8,7
+GO:0048545,response to steroid hormone,14/132,457/13664,0.000133744,0.005611122,0.004105886,Lox/Col1a1/Fn1/Slit3/Ptn/Serpine1/Eln/Sdc1/Slit2/Sfrp4/Ctsb/Asns/Agtr1a/Arg1,14
+GO:0002764,immune response-regulating signaling pathway,13/132,401/13664,0.000134527,0.005611122,0.004105886,Thy1/Irf7/Trem2/Cd300lf/Clec7a/Kcnn4/Cd8a/Cd33/Fcgr2b/LOC498276/Oasl/Cd300a/Lgals3,13
+GO:0051384,response to glucocorticoid,10/132,246/13664,0.00013606,0.005611122,0.004105886,Fn1/Slit3/Serpine1/Eln/Sdc1/Slit2/Sfrp4/Ctsb/Agtr1a/Arg1,10
+GO:0048251,elastic fiber assembly,3/132,11/13664,0.000137397,0.005611122,0.004105886,Lox/Eln/Efemp2,3
+GO:0050858,negative regulation of antigen receptor-mediated signaling pathway,4/132,28/13664,0.000142327,0.005611122,0.004105886,Thy1/Fcgr2b/Cd300a/Lgals3,4
+GO:0007584,response to nutrient,11/132,297/13664,0.000142888,0.005611122,0.004105886,Col1a1/Sfrp2/Ptn/Cdkn2b/Eln/Snai2/Tnfrsf11b/Tnc/Abca1/Arg1/Runx2,11
+GO:0061138,morphogenesis of a branching epithelium,9/132,201/13664,0.000143872,0.005611122,0.004105886,Sfrp2/Slit2/Snai2/Mmp14/Tnc/Ctsz/Agtr1a/Wnt4/Grem1,9
+GO:0031214,biomineral tissue development,8/132,158/13664,0.000146649,0.005611122,0.004105886,Lox/Col1a1/Ptn/Col1a2/Ror2/Gpnmb/Wnt4/Grem1,8
+GO:0002695,negative regulation of leukocyte activation,9/132,202/13664,0.000149367,0.005611122,0.004105886,Fn1/Enpp3/Cd300lf/Cd33/Arg1/Fcgr2b/Gpnmb/Cd300a/Lgals3,9
+GO:0050673,epithelial cell proliferation,14/132,462/13664,0.00014984,0.005611122,0.004105886,Sfrp2/Ccn3/Ptn/Cdkn2b/Igfbp4/Snai2/Mmp14/Fst/Scarb1/Agtr1a/Arg1/Runx2/Plau/Serpinb1a,14
+GO:2000146,negative regulation of cell motility,11/132,299/13664,0.00015154,0.005611122,0.004105886,Tnn/Thy1/Sfrp2/Ccn3/Ptn/Serpine1/Slit2/Acan/Cd300a/Wnt4/Grem1,11
+GO:0002063,chondrocyte development,4/132,29/13664,0.000163869,0.005950565,0.00435427,Col11a1/Sfrp2/Acan/Runx2,4
+GO:1903034,regulation of response to wounding,8/132,161/13664,0.000166967,0.005950565,0.00435427,Ptn/Serpine1/Cadm4/Hpse/Clec7a/Plau/Reg3b/Wnt4,8
+GO:0001706,endoderm formation,5/132,54/13664,0.000168728,0.005950565,0.00435427,Col12a1/Col11a1/Fn1/Mmp14/Itgb2,5
+GO:0048678,response to axon injury,7/132,121/13664,0.000169513,0.005950565,0.00435427,Thy1/Ptn/Tnc/Trem2/Bex2/Arg1/Slc1a1,7
+GO:0030282,bone mineralization,7/132,122/13664,0.000178403,0.006066407,0.004439036,Lox/Ptn/Col1a2/Ror2/Gpnmb/Wnt4/Grem1,7
+GO:0090090,negative regulation of canonical Wnt signaling pathway,7/132,122/13664,0.000178403,0.006066407,0.004439036,Tnn/Cthrc1/Sfrp2/Sfrp4/Snai2/Ror2/Grem1,7
+GO:0051216,cartilage development,9/132,207/13664,0.000179546,0.006066407,0.004439036,Col11a1/Col1a1/Sfrp2/Ccn3/Snai2/Ror2/Acan/Runx2/Grem1,9
+GO:0071219,cellular response to molecule of bacterial origin,10/132,255/13664,0.000182343,0.006084853,0.004452534,Fn1/Serpine1/Trem2/Scarb1/Abca1/Arg1/Spon2/Plau/Fcgr2b/Cd68,10
+GO:0031668,cellular response to extracellular stimulus,11/132,307/13664,0.000190755,0.006287935,0.004601137,Col1a1/Sfrp2/Ptn/Cdkn2b/Eln/Snai2/Tnc/Asns/Runx2/Wnt4/Cd68,11
+GO:0007229,integrin-mediated signaling pathway,6/132,88/13664,0.000205538,0.006613911,0.004839667,Thy1/Fn1/Ptn/Itga11/Itgb2/Itga8,6
+GO:0060135,maternal process involved in female pregnancy,6/132,88/13664,0.000205538,0.006613911,0.004839667,Ptn/Serpine1/Sfrp4/Ctsb/Arg1/Wnt4,6
+GO:0033687,osteoblast proliferation,4/132,31/13664,0.00021387,0.00674642,0.004936629,Tnn/Cthrc1/Hpse/Grem1,4
+GO:0030595,leukocyte chemotaxis,9/132,212/13664,0.000214647,0.00674642,0.004936629,Ccn3/Ptn/Serpine1/Slit2/Adam8/Itgb2/Slamf9/Grem1/Lgals3,9
+GO:0071560,cellular response to transforming growth factor beta stimulus,10/132,261/13664,0.000220051,0.006836752,0.005002729,Lox/Col1a1/Fn1/Serpine1/Col1a2/Cdkn2b/Eln/Arg1/Itga8/Wnt4,10
+GO:0048754,branching morphogenesis of an epithelial tube,8/132,168/13664,0.00022351,0.006865324,0.005023636,Sfrp2/Slit2/Mmp14/Tnc/Ctsz/Agtr1a/Wnt4/Grem1,8
+GO:0050854,regulation of antigen receptor-mediated signaling pathway,5/132,58/13664,0.000237042,0.007199157,0.005267915,Thy1/Kcnn4/Fcgr2b/Cd300a/Lgals3,5
+GO:0050777,negative regulation of immune response,8/132,170/13664,0.000242276,0.007276347,0.005324398,Enpp3/Il1rl1/Svep1/Trem2/Arg1/Fcgr2b/Cd300a/Lgals3,8
+GO:0002443,leukocyte mediated immunity,12/132,371/13664,0.000250983,0.007455029,0.005455147,Itgb2/Stxbp2/Svep1/Irf7/Trem2/Clec7a/Cd8a/Arg1/Spon2/Fcgr2b/Slamf9/Cd300a,12
+GO:0001763,morphogenesis of a branching structure,9/132,218/13664,0.00026413,0.007760245,0.005678486,Sfrp2/Slit2/Snai2/Mmp14/Tnc/Ctsz/Agtr1a/Wnt4/Grem1,9
+GO:0071559,response to transforming growth factor beta,10/132,268/13664,0.000272126,0.007909207,0.005787488,Lox/Col1a1/Fn1/Serpine1/Col1a2/Cdkn2b/Eln/Arg1/Itga8/Wnt4,10
+GO:0007044,cell-substrate junction assembly,6/132,93/13664,0.000277952,0.007992605,0.005848514,Thy1/Fn1/Col16a1/Mmp14/Wnt4/Grem1,6
+GO:0002755,MyD88-dependent toll-like receptor signaling pathway,3/132,14/13664,0.000296736,0.008268825,0.006050635,Irf7/Cd300lf/Cd300a,3
+GO:0033004,negative regulation of mast cell activation,3/132,14/13664,0.000296736,0.008268825,0.006050635,Enpp3/Cd300lf/Cd300a,3
+GO:0090177,establishment of planar polarity involved in neural tube closure,3/132,14/13664,0.000296736,0.008268825,0.006050635,Cthrc1/Sfrp2/Ptk7,3
+GO:0032964,collagen biosynthetic process,5/132,61/13664,0.000300728,0.008294575,0.006069477,Col1a1/Fn1/Serpine1/Arg1/Wnt4,5
+GO:0050832,defense response to fungus,4/132,34/13664,0.000308237,0.008331643,0.006096601,Cotl1/Clec7a/Arg1/Spon2,4
+GO:0060071,"Wnt signaling pathway, planar cell polarity pathway",4/132,34/13664,0.000308237,0.008331643,0.006096601,Cthrc1/Sfrp2/Ptk7/Ror2,4
+GO:0031669,cellular response to nutrient levels,10/132,273/13664,0.000315338,0.0084392,0.006175305,Col1a1/Ptn/Cdkn2b/Eln/Snai2/Tnc/Asns/Runx2/Wnt4/Cd68,10
+GO:0032102,negative regulation of response to external stimulus,12/132,383/13664,0.000335321,0.00888601,0.006502254,Ccn3/Enpp3/Serpine1/Slit2/Trem2/Arg1/Plau/Fcgr2b/Slc39a8/Reg3b/Wnt4/Grem1,12
+GO:0032526,response to retinoic acid,7/132,136/13664,0.000347689,0.00900679,0.006590634,Col1a1/Col1a2/Eln/Ptk7/Tnc/Abca1/Wnt4,7
+GO:0051893,regulation of focal adhesion assembly,5/132,63/13664,0.000349875,0.00900679,0.006590634,Thy1/Col16a1/Mmp14/Wnt4/Grem1,5
+GO:0090109,regulation of cell-substrate junction assembly,5/132,63/13664,0.000349875,0.00900679,0.006590634,Thy1/Col16a1/Mmp14/Wnt4/Grem1,5
+GO:0040013,negative regulation of locomotion,11/132,330/13664,0.000354612,0.009042606,0.006616841,Tnn/Thy1/Sfrp2/Ccn3/Ptn/Serpine1/Slit2/Acan/Cd300a/Wnt4/Grem1,11
+GO:0008585,female gonad development,7/132,137/13664,0.000363506,0.009133279,0.006683191,Slit3/Serpine1/Slit2/Mmp14/Ptx3/Fst/Wnt4,7
+GO:0060828,regulation of canonical Wnt signaling pathway,9/132,228/13664,0.000367478,0.009133279,0.006683191,Tnn/Col1a1/Cthrc1/Sfrp2/Ptk7/Sfrp4/Snai2/Ror2/Grem1,9
+GO:0042249,establishment of planar polarity of embryonic epithelium,3/132,15/13664,0.000368305,0.009133279,0.006683191,Cthrc1/Sfrp2/Ptk7,3
+GO:0016055,Wnt signaling pathway,12/132,388/13664,0.000376974,0.009226307,0.006751263,Tnn/Col1a1/Cthrc1/Sfrp2/Cpz/Ptk7/Sdc1/Sfrp4/Snai2/Ror2/Wnt4/Grem1,12
+GO:0070661,leukocyte proliferation,11/132,333/13664,0.000382859,0.009226307,0.006751263,Enpp3/Itgb2/Trem2/Slc11a1/Arg1/Fcgr2b/Gpnmb/Cd300a/Wnt4/Grem1/Lgals3,11
+GO:0046697,decidualization,4/132,36/13664,0.000385709,0.009226307,0.006751263,Ptn/Serpine1/Sfrp4/Ctsb,4
+GO:0071404,cellular response to low-density lipoprotein particle stimulus,4/132,36/13664,0.000385709,0.009226307,0.006751263,Serpine1/Itgb2/Trem2/Cd68,4
+GO:0150115,cell-substrate junction organization,6/132,99/13664,0.000389786,0.009242043,0.006762777,Thy1/Fn1/Col16a1/Mmp14/Wnt4/Grem1,6
+GO:0198738,cell-cell signaling by wnt,12/132,390/13664,0.000394822,0.009280031,0.006790575,Tnn/Col1a1/Cthrc1/Sfrp2/Cpz/Ptk7/Sdc1/Sfrp4/Snai2/Ror2/Wnt4/Grem1,12
+GO:0046849,bone remodeling,6/132,100/13664,0.000411423,0.009586865,0.007015098,Cthrc1/Ptn/Tnfrsf11b/Adam8/Ptprv/Grem1,6
+GO:0055094,response to lipoprotein particle,4/132,37/13664,0.000429248,0.009827096,0.007190885,Serpine1/Itgb2/Trem2/Cd68,4
+GO:0090175,regulation of establishment of planar polarity,4/132,37/13664,0.000429248,0.009827096,0.007190885,Cthrc1/Sfrp2/Ptk7/Ror2,4
+GO:0046545,development of primary female sexual characteristics,7/132,141/13664,0.000432639,0.009827096,0.007190885,Slit3/Serpine1/Slit2/Mmp14/Ptx3/Fst/Wnt4,7
+GO:0007178,transmembrane receptor protein serine/threonine kinase signaling pathway,11/132,340/13664,0.000456209,0.010276105,0.007519443,Lox/Sfrp2/Ccn3/Col1a2/Cdkn2b/Sfrp4/Ror2/Fst/Runx2/Itga8/Grem1,11
+GO:0150116,regulation of cell-substrate junction organization,5/132,67/13664,0.000466152,0.010413299,0.007619833,Thy1/Col16a1/Mmp14/Wnt4/Grem1,5
+GO:0044344,cellular response to fibroblast growth factor stimulus,6/132,103/13664,0.000482006,0.010592373,0.007750869,Col1a1/Serpine1/Eln/Snai2/Runx2/Wnt4,6
+GO:0070664,negative regulation of leukocyte proliferation,6/132,103/13664,0.000482006,0.010592373,0.007750869,Enpp3/Arg1/Fcgr2b/Gpnmb/Cd300a/Grem1,6
+GO:0001921,positive regulation of receptor recycling,3/132,17/13664,0.000542705,0.011735457,0.00858731,Nsg1/Ramp3/Agtr1a,3
+GO:0046689,response to mercury ion,3/132,17/13664,0.000542705,0.011735457,0.00858731,Fn1/Slc39a8/Slc1a1,3
+GO:0045667,regulation of osteoblast differentiation,7/132,147/13664,0.000555661,0.011920242,0.008722525,Tnn/Cthrc1/Sfrp2/Snai2/Runx2/Wnt4/Grem1,7
+GO:0048608,reproductive structure development,11/132,349/13664,0.000567532,0.012079049,0.00883873,Sfrp2/Slit3/Serpine1/Sdc1/Slit2/Mmp14/Tnc/Ror2/Ptx3/Fst/Wnt4,11
+GO:0001818,negative regulation of cytokine production,10/132,295/13664,0.000579766,0.012178068,0.008911186,Fn1/Il1rl1/Trem2/Slc11a1/Siglec1/Cd33/Arg1/Fcgr2b/Gpnmb/Serpinb1a,10
+GO:1901654,response to ketone,11/132,350/13664,0.000581195,0.012178068,0.008911186,Fn1/Slit3/Ptn/Serpine1/Eln/Slit2/Tnc/Ctsb/Asns/Agtr1a/Arg1,11
+GO:0002819,regulation of adaptive immune response,8/132,194/13664,0.000586836,0.012182189,0.008914202,Il1rl1/Svep1/Irf7/Trem2/Clec7a/Slc11a1/Arg1/Fcgr2b,8
+GO:1905477,positive regulation of protein localization to membrane,6/132,107/13664,0.000590406,0.012182189,0.008914202,Cemip/Ptn/Ramp3/Trem2/Stom/Lgals3,6
+GO:0061448,connective tissue development,10/132,296/13664,0.000595187,0.012187806,0.008918312,Col11a1/Lox/Col1a1/Sfrp2/Ccn3/Snai2/Ror2/Acan/Runx2/Grem1,10
+GO:0071222,cellular response to lipopolysaccharide,9/132,245/13664,0.000618765,0.01257536,0.009201901,Fn1/Serpine1/Scarb1/Abca1/Arg1/Spon2/Plau/Fcgr2b/Cd68,9
+GO:0061458,reproductive system development,11/132,353/13664,0.000623846,0.012583999,0.009208222,Sfrp2/Slit3/Serpine1/Sdc1/Slit2/Mmp14/Tnc/Ror2/Ptx3/Fst/Wnt4,11
+GO:0031638,zymogen activation,4/132,41/13664,0.000638847,0.012590035,0.009212639,Serpine1/Mmp14/Ctsz/Plau,4
+GO:0050856,regulation of T cell receptor signaling pathway,4/132,41/13664,0.000638847,0.012590035,0.009212639,Thy1/Kcnn4/Cd300a/Lgals3,4
+GO:0002923,regulation of humoral immune response mediated by circulating immunoglobulin,3/132,18/13664,0.000646661,0.012590035,0.009212639,Svep1/Trem2/Fcgr2b,3
+GO:0090280,positive regulation of calcium ion import,3/132,18/13664,0.000646661,0.012590035,0.009212639,Serpine1/Trpv2/Lgals3,3
+GO:1905475,regulation of protein localization to membrane,8/132,197/13664,0.000649169,0.012590035,0.009212639,Cemip/Ptn/Ramp3/Mmp14/Trem2/Stom/Lgals3/Slc1a1,8
+GO:0030178,negative regulation of Wnt signaling pathway,7/132,151/13664,0.000652092,0.012590035,0.009212639,Tnn/Cthrc1/Sfrp2/Sfrp4/Snai2/Ror2/Grem1,7
+GO:0006898,receptor-mediated endocytosis,9/132,248/13664,0.000675093,0.012941668,0.009469943,Serpine1/Sdc1/Sfrp4/Ramp3/Itgb2/Siglec1/Fcgr2b/Cd300a/Grem1,9
+GO:0071402,cellular response to lipoprotein particle stimulus,4/132,42/13664,0.000700852,0.013340875,0.009762059,Serpine1/Itgb2/Trem2/Cd68,4
+GO:0046660,female sex differentiation,7/132,155/13664,0.000761362,0.014064226,0.010291364,Slit3/Serpine1/Slit2/Mmp14/Ptx3/Fst/Wnt4,7
+GO:0002577,regulation of antigen processing and presentation,3/132,19/13664,0.000762506,0.014064226,0.010291364,Trem2/Slc11a1/Cd68,3
+GO:0002689,negative regulation of leukocyte chemotaxis,3/132,19/13664,0.000762506,0.014064226,0.010291364,Ccn3/Slit2/Grem1,3
+GO:0002693,positive regulation of cellular extravasation,3/132,19/13664,0.000762506,0.014064226,0.010291364,Thy1/Plvap/Adam8,3
+GO:0071456,cellular response to hypoxia,8/132,202/13664,0.000764869,0.014064226,0.010291364,Fndc1/Ptn/Serpine1/Eln/Slit2/Adam8/Trem2/Plau,8
+GO:0007492,endoderm development,5/132,76/13664,0.000832118,0.015197405,0.011120558,Col12a1/Col11a1/Fn1/Mmp14/Itgb2,5
+GO:0061041,regulation of wound healing,6/132,115/13664,0.000863327,0.01566156,0.011460198,Serpine1/Cadm4/Hpse/Clec7a/Plau/Wnt4,6
+GO:0001502,cartilage condensation,3/132,20/13664,0.000890756,0.015902763,0.011636697,Col11a1/Ror2/Acan,3
+GO:0002768,immune response-regulating cell surface receptor signaling pathway,9/132,258/13664,0.000893943,0.015902763,0.011636697,Thy1/Trem2/Clec7a/Kcnn4/Cd8a/Fcgr2b/LOC498276/Cd300a/Lgals3,9
+GO:0042742,defense response to bacterium,8/132,207/13664,0.000896637,0.015902763,0.011636697,Serpine1/Trem2/Slc11a1/Spon2/Hck/Slamf9/Reg3b/Plac8,8
+GO:0002686,negative regulation of leukocyte migration,4/132,45/13664,0.000912326,0.015902763,0.011636697,Ccn3/Slit2/Cd300a/Grem1,4
+GO:0050829,defense response to Gram-negative bacterium,4/132,45/13664,0.000912326,0.015902763,0.011636697,Serpine1/Trem2/Slc11a1/Reg3b,4
+GO:0007548,sex differentiation,10/132,313/13664,0.000913985,0.015902763,0.011636697,Sfrp2/Slit3/Serpine1/Sdc1/Slit2/Mmp14/Ror2/Ptx3/Fst/Wnt4,10
+GO:0033273,response to vitamin,7/132,160/13664,0.000917807,0.015902763,0.011636697,Col1a1/Ptn/Eln/Snai2/Tnc/Arg1/Runx2,7
+GO:0071675,regulation of mononuclear cell migration,6/132,117/13664,0.000944709,0.016182905,0.011841688,Ccn3/Serpine1/Slit2/Adam8/Grem1/Lgals3,6
+GO:0071772,response to BMP,7/132,161/13664,0.000951936,0.016182905,0.011841688,Sfrp2/Fn1/Sfrp4/Ror2/Fst/Runx2/Grem1,7
+GO:0071773,cellular response to BMP stimulus,7/132,161/13664,0.000951936,0.016182905,0.011841688,Sfrp2/Fn1/Sfrp4/Ror2/Fst/Runx2/Grem1,7
+GO:0009612,response to mechanical stimulus,10/132,315/13664,0.000959314,0.01620641,0.011858888,Col11a1/Col1a1/Ptn/Serpine1/Il1rl1/Mmp14/Tnc/Ctsb/Asns/Acan,10
+GO:0033628,regulation of cell adhesion mediated by integrin,4/132,46/13664,0.000991805,0.016446931,0.012034886,Sfrp2/Serpine1/Snai2/Plau,4
+GO:0036230,granulocyte activation,4/132,46/13664,0.000991805,0.016446931,0.012034886,Enpp3/Itgb2/Stxbp2/Cd300a,4
+GO:0085029,extracellular matrix assembly,4/132,46/13664,0.000991805,0.016446931,0.012034886,Lox/Col1a2/Eln/Efemp2,4
+GO:0071676,negative regulation of mononuclear cell migration,3/132,21/13664,0.001031909,0.016802704,0.01229522,Ccn3/Slit2/Grem1,3
+GO:0072677,eosinophil migration,3/132,21/13664,0.001031909,0.016802704,0.01229522,Adam8/Cd300a/Lgals3,3
+GO:0098581,detection of external biotic stimulus,3/132,21/13664,0.001031909,0.016802704,0.01229522,Trem2/Clec7a/Scarb1,3
+GO:0055093,response to hyperoxia,4/132,47/13664,0.001076031,0.017339602,0.01268809,Col1a1/Serpine1/Eln/Plau,4
+GO:0002698,negative regulation of immune effector process,6/132,120/13664,0.001077711,0.017339602,0.01268809,Enpp3/Svep1/Arg1/Fcgr2b/Cd300a/Lgals3,6
+GO:0036294,cellular response to decreased oxygen levels,8/132,214/13664,0.001111131,0.017666986,0.01292765,Fndc1/Ptn/Serpine1/Eln/Slit2/Adam8/Trem2/Plau,8
+GO:0044403,biological process involved in symbiotic interaction,8/132,214/13664,0.001111131,0.017666986,0.01292765,Fn1/Ctsb/Ptx3/Cd300lf/Siglec1/Scarb1/Stom/Arg1,8
+GO:0002697,regulation of immune effector process,11/132,380/13664,0.001139267,0.018008414,0.013177487,Enpp3/Itgb2/Stxbp2/Svep1/Trem2/Clec7a/Arg1/Spon2/Fcgr2b/Cd300a/Lgals3,11
+GO:0048041,focal adhesion assembly,5/132,82/13664,0.001173622,0.018443605,0.013495934,Thy1/Col16a1/Mmp14/Wnt4/Grem1,5
+GO:0010878,cholesterol storage,3/132,22/13664,0.001186444,0.018537332,0.013564517,Trem2/Scarb1/Soat1,3
+GO:0002757,immune response-activating signaling pathway,11/132,383/13664,0.001213647,0.018853386,0.013795787,Thy1/Irf7/Trem2/Cd300lf/Clec7a/Kcnn4/Cd8a/Fcgr2b/Oasl/Cd300a/Lgals3,11
+GO:0002253,activation of immune response,12/132,444/13664,0.001230087,0.018999578,0.013902762,Thy1/Svep1/Irf7/Trem2/Cd300lf/Clec7a/Kcnn4/Cd8a/Fcgr2b/Oasl/Cd300a/Lgals3,12
+GO:0001101,response to acid chemical,8/132,218/13664,0.001250997,0.019212754,0.014058751,Col1a1/Ptn/Col1a2/Col16a1/Asns/Arg1/Reg3b/Wnt4,8
+GO:0001893,maternal placenta development,4/132,49/13664,0.001259323,0.019231356,0.014072363,Ptn/Serpine1/Sfrp4/Ctsb,4
+GO:0042476,odontogenesis,6/132,124/13664,0.001276884,0.019389981,0.014188435,Col1a1/Serpine1/Tnfrsf11b/Tnc/Fst/Runx2,6
+GO:0008406,gonad development,9/132,272/13664,0.001294139,0.019542216,0.014299832,Sfrp2/Slit3/Serpine1/Sdc1/Slit2/Mmp14/Ptx3/Fst/Wnt4,9
+GO:0098743,cell aggregation,3/132,23/13664,0.001354826,0.020111641,0.014716503,Col11a1/Ror2/Acan,3
+GO:0033003,regulation of mast cell activation,4/132,50/13664,0.001358691,0.020111641,0.014716503,Enpp3/Stxbp2/Cd300lf/Cd300a,4
+GO:1903307,positive regulation of regulated secretory pathway,4/132,50/13664,0.001358691,0.020111641,0.014716503,Rab15/Scamp5/Itgb2/Stxbp2,4
+GO:0050727,regulation of inflammatory response,10/132,330/13664,0.001361609,0.020111641,0.014716503,Ccn3/Enpp3/Serpine1/Il1rl1/Tnc/Adam8/Trem2/Fcgr2b/Slc39a8/Reg3b,10
+GO:0001656,metanephros development,5/132,85/13664,0.001378793,0.020145278,0.014741117,Anpep/Slit2/Itga8/Wnt4/Grem1,5
+GO:0045921,positive regulation of exocytosis,5/132,85/13664,0.001378793,0.020145278,0.014741117,Sdc1/Rab15/Scamp5/Itgb2/Stxbp2,5
+GO:0071674,mononuclear cell migration,7/132,172/13664,0.00139744,0.020302385,0.014856079,Ccn3/Serpine1/Slit2/Adam8/Slamf9/Grem1/Lgals3,7
+GO:1901888,regulation of cell junction assembly,8/132,222/13664,0.001404568,0.020302385,0.014856079,Thy1/Col16a1/Srpx2/Slit2/Snai2/Mmp14/Wnt4/Grem1,8
+GO:0045137,development of primary sexual characteristics,9/132,277/13664,0.001468001,0.02102617,0.015385702,Sfrp2/Slit3/Serpine1/Sdc1/Slit2/Mmp14/Ptx3/Fst/Wnt4,9
+GO:0043542,endothelial cell migration,8/132,224/13664,0.001486784,0.02102617,0.015385702,Ccn3/Ptn/Srpx2/Slit2/Snai2/Itgb2/Scarb1/Grem1,8
+GO:0090092,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,8/132,224/13664,0.001486784,0.02102617,0.015385702,Lox/Sfrp2/Ccn3/Cdkn2b/Sfrp4/Fst/Itga8/Grem1,8
+GO:0045766,positive regulation of angiogenesis,7/132,174/13664,0.001493535,0.02102617,0.015385702,Tnn/Sfrp2/Serpine1/Itgb2/Agtr1a/Grem1/Lgals3,7
+GO:1904018,positive regulation of vasculature development,7/132,174/13664,0.001493535,0.02102617,0.015385702,Tnn/Sfrp2/Serpine1/Itgb2/Agtr1a/Grem1/Lgals3,7
+GO:0031639,plasminogen activation,3/132,24/13664,0.0015375,0.021421967,0.015675322,Serpine1/Ctsz/Plau,3
+GO:0032930,positive regulation of superoxide anion generation,3/132,24/13664,0.0015375,0.021421967,0.015675322,Itgb2/Clec7a/Agtr1a,3
+GO:0001959,regulation of cytokine-mediated signaling pathway,6/132,129/13664,0.001564114,0.021681032,0.015864891,Slit3/Slit2/Irf7/Trem2/Cd300lf/Arg1,6
+GO:0001736,establishment of planar polarity,4/132,53/13664,0.001689489,0.023099257,0.016902663,Cthrc1/Sfrp2/Ptk7/Ror2,4
+GO:0007164,establishment of tissue polarity,4/132,53/13664,0.001689489,0.023099257,0.016902663,Cthrc1/Sfrp2/Ptk7/Ror2,4
+GO:0042475,odontogenesis of dentin-containing tooth,5/132,89/13664,0.001692065,0.023099257,0.016902663,Serpine1/Tnfrsf11b/Tnc/Fst/Runx2,5
+GO:0060348,bone development,8/132,230/13664,0.001756609,0.023859875,0.017459238,Tnn/Lox/Col1a1/Sfrp4/Mmp14/Ptprv/Runx2/Grem1,8
+GO:0051924,regulation of calcium ion transport,8/132,231/13664,0.001805123,0.024235334,0.017733977,Cemip/Thy1/Serpine1/Ramp3/Trpv2/Cd33/Agtr1a/Lgals3,8
+GO:0036296,response to increased oxygen levels,4/132,54/13664,0.00181115,0.024235334,0.017733977,Col1a1/Serpine1/Eln/Plau,4
+GO:1904645,response to amyloid-beta,4/132,54/13664,0.00181115,0.024235334,0.017733977,Fn1/Ramp3/Trem2/Fcgr2b,4
+GO:0071453,cellular response to oxygen levels,8/132,232/13664,0.00185469,0.024695701,0.018070846,Fndc1/Ptn/Serpine1/Eln/Slit2/Adam8/Trem2/Plau,8
+GO:0071548,response to dexamethasone,5/132,91/13664,0.001866937,0.024736919,0.018101007,Serpine1/Eln/Ctsb/Agtr1a/Arg1,5
+GO:0002460,adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,9/132,288/13664,0.001917048,0.025194501,0.018435838,Il1rl1/Svep1/Irf7/Trem2/Clec7a/Slc11a1/Cd8a/Arg1/Fcgr2b,9
+GO:0002822,regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,7/132,182/13664,0.001930602,0.025194501,0.018435838,Il1rl1/Svep1/Trem2/Clec7a/Slc11a1/Arg1/Fcgr2b,7
+GO:0002823,negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,4/132,55/13664,0.001938756,0.025194501,0.018435838,Il1rl1/Svep1/Arg1/Fcgr2b,4
+GO:0033344,cholesterol efflux,4/132,55/13664,0.001938756,0.025194501,0.018435838,Trem2/Scarb1/Abca1/Soat1,4
+GO:0048705,skeletal system morphogenesis,8/132,234/13664,0.001957052,0.025263877,0.018486604,Col11a1/Col1a1/Sfrp4/Mmp14/Ror2/Acan/Runx2/Grem1,8
+GO:1901342,regulation of vasculature development,9/132,289/13664,0.001962787,0.025263877,0.018486604,Tnn/Sfrp2/Ptn/Serpine1/Itgb2/Agtr1a/Wnt4/Grem1/Lgals3,9
+GO:0007369,gastrulation,7/132,183/13664,0.001991546,0.025392215,0.018580513,Col12a1/Col11a1/Sfrp2/Fn1/Mmp14/Itgb2/Itga8,7
+GO:0043270,positive regulation of monoatomic ion transport,7/132,183/13664,0.001991546,0.025392215,0.018580513,Cemip/Thy1/Serpine1/Ramp3/Trpv2/Agtr1a/Lgals3,7
+GO:0007162,negative regulation of cell adhesion,9/132,290/13664,0.002009397,0.025499527,0.018659038,Col1a1/Serpine1/Snai2/Mmp14/Tnc/Arg1/Gpnmb/Cd300a/Lgals3,9
+GO:0030111,regulation of Wnt signaling pathway,9/132,292/13664,0.002105271,0.02659135,0.019457969,Tnn/Col1a1/Cthrc1/Sfrp2/Ptk7/Sfrp4/Snai2/Ror2/Grem1,9
+GO:0060562,epithelial tube morphogenesis,10/132,351/13664,0.002146368,0.026984343,0.019745539,Cthrc1/Sfrp2/Ptk7/Slit2/Mmp14/Tnc/Ctsz/Agtr1a/Wnt4/Grem1,10
+GO:0002523,leukocyte migration involved in inflammatory response,3/132,27/13664,0.002175492,0.027098407,0.019829004,Ptn/Adam8/Itgb2,3
+GO:0032691,negative regulation of interleukin-1 beta production,3/132,27/13664,0.002175492,0.027098407,0.019829004,Trem2/Cd33/Serpinb1a,3
+GO:0001657,ureteric bud development,5/132,95/13664,0.002255889,0.027843229,0.02037402,Sdc1/Slit2/Agtr1a/Wnt4/Grem1,5
+GO:0042472,inner ear morphogenesis,5/132,95/13664,0.002255889,0.027843229,0.02037402,Col11a1/Cthrc1/Ptk7/Ror2/Itga8,5
+GO:0010811,positive regulation of cell-substrate adhesion,6/132,139/13664,0.002283575,0.028056832,0.020530322,Thy1/Fn1/Ptn/Col16a1/Efemp2/Wnt4,6
+GO:0002429,immune response-activating cell surface receptor signaling pathway,8/132,241/13664,0.002350923,0.02856573,0.020902703,Thy1/Trem2/Clec7a/Kcnn4/Cd8a/Fcgr2b/Cd300a/Lgals3,8
+GO:0072163,mesonephric epithelium development,5/132,96/13664,0.002361697,0.02856573,0.020902703,Sdc1/Slit2/Agtr1a/Wnt4/Grem1,5
+GO:0072164,mesonephric tubule development,5/132,96/13664,0.002361697,0.02856573,0.020902703,Sdc1/Slit2/Agtr1a/Wnt4/Grem1,5
+GO:0060759,regulation of response to cytokine stimulus,6/132,140/13664,0.002367267,0.02856573,0.020902703,Slit3/Slit2/Irf7/Trem2/Cd300lf/Arg1,6
+GO:0032496,response to lipopolysaccharide,11/132,418/13664,0.002418497,0.028937309,0.021174603,Fn1/Serpine1/Trem2/Slc11a1/Scarb1/Abca1/Arg1/Spon2/Plau/Fcgr2b/Cd68,11
+GO:0032928,regulation of superoxide anion generation,3/132,28/13664,0.002419472,0.028937309,0.021174603,Itgb2/Clec7a/Agtr1a,3
+GO:0090288,negative regulation of cellular response to growth factor stimulus,5/132,97/13664,0.002471073,0.029424273,0.021530934,Sfrp2/Cadm4/Slit2/Wnt4/Grem1,5
+GO:0002820,negative regulation of adaptive immune response,4/132,59/13664,0.002511565,0.029775265,0.021787769,Il1rl1/Svep1/Arg1/Fcgr2b,4
+GO:0007565,female pregnancy,8/132,244/13664,0.002537684,0.029953539,0.021918219,Ptn/Serpine1/Sfrp4/Ctsb/Arg1/Plau/Reg3b/Wnt4,8
+GO:0002703,regulation of leukocyte mediated immunity,8/132,245/13664,0.002602458,0.030584537,0.022379946,Itgb2/Stxbp2/Svep1/Trem2/Clec7a/Arg1/Fcgr2b/Cd300a,8
+GO:0045730,respiratory burst,3/132,29/13664,0.002679733,0.031197736,0.022828649,Trem2/Clec7a/Slc11a1,3
+GO:0051894,positive regulation of focal adhesion assembly,3/132,29/13664,0.002679733,0.031197736,0.022828649,Thy1/Col16a1/Wnt4,3
+GO:0002275,myeloid cell activation involved in immune response,5/132,99/13664,0.002700803,0.031197736,0.022828649,Enpp3/Itgb2/Stxbp2/Trem2/Cd300a,5
+GO:0090263,positive regulation of canonical Wnt signaling pathway,5/132,99/13664,0.002700803,0.031197736,0.022828649,Col1a1/Sfrp2/Ptk7/Sfrp4/Ror2,5
+GO:0072073,kidney epithelium development,6/132,144/13664,0.002725343,0.031347245,0.02293805,Anpep/Sdc1/Slit2/Agtr1a/Wnt4/Grem1,6
+GO:0050728,negative regulation of inflammatory response,6/132,145/13664,0.002820887,0.032090281,0.02348176,Ccn3/Enpp3/Trem2/Fcgr2b/Slc39a8/Reg3b,6
+GO:0001823,mesonephros development,5/132,100/13664,0.002821297,0.032090281,0.02348176,Sdc1/Slit2/Agtr1a/Wnt4/Grem1,5
+GO:0070849,response to epidermal growth factor,4/132,61/13664,0.002837431,0.032090281,0.02348176,Col1a1/Serpine1/Snai2/Ptprv,4
+GO:1905517,macrophage migration,4/132,61/13664,0.002837431,0.032090281,0.02348176,Mmp14/Ror2/Trem2/Lgals3,4
+GO:0030509,BMP signaling pathway,6/132,146/13664,0.002918921,0.032874351,0.024055496,Sfrp2/Sfrp4/Ror2/Fst/Runx2/Grem1,6
+GO:0034121,regulation of toll-like receptor signaling pathway,3/132,30/13664,0.002956629,0.032887938,0.024065438,Irf7/Cd300lf/Cd300a,3
+GO:0044342,type B pancreatic cell proliferation,3/132,30/13664,0.002956629,0.032887938,0.024065438,Ccn3/Igfbp4/Serpinb1a,3
+GO:0071305,cellular response to vitamin D,3/132,30/13664,0.002956629,0.032887938,0.024065438,Ptn/Snai2/Tnc,3
+GO:0050730,regulation of peptidyl-tyrosine phosphorylation,7/132,198/13664,0.003097329,0.034311806,0.02510734,Thy1/Sfrp2/Cadm4/Itgb2/Trem2/Clec7a/Grem1,7
+GO:0002237,response to molecule of bacterial origin,11/132,432/13664,0.003114609,0.034362406,0.025144366,Fn1/Serpine1/Trem2/Slc11a1/Scarb1/Abca1/Arg1/Spon2/Plau/Fcgr2b/Cd68,11
+GO:0042110,T cell activation,12/132,497/13664,0.003140117,0.034502995,0.025247241,Thy1/Adam8/Itgb2/Slc11a1/Cd8a/Arg1/Runx2/Gpnmb/Slamf9/Cd300a/Wnt4/Lgals3,12
+GO:0060443,mammary gland morphogenesis,4/132,63/13664,0.003191127,0.034921526,0.025553497,Slit2/Sfrp4/Arg1/Wnt4,4
+GO:0001919,regulation of receptor recycling,3/132,31/13664,0.003250496,0.035285508,0.025819837,Nsg1/Ramp3/Agtr1a,3
+GO:0003180,aortic valve morphogenesis,3/132,31/13664,0.003250496,0.035285508,0.025819837,Slit3/Eln/Slit2,3
+GO:0002886,regulation of myeloid leukocyte mediated immunity,4/132,64/13664,0.003378761,0.036385626,0.026624838,Itgb2/Stxbp2/Arg1/Cd300a,4
+GO:1904427,positive regulation of calcium ion transmembrane transport,4/132,64/13664,0.003378761,0.036385626,0.026624838,Cemip/Thy1/Ramp3/Agtr1a,4
+GO:0043200,response to amino acid,7/132,202/13664,0.003459289,0.037104992,0.027151228,Col1a1/Ptn/Col1a2/Col16a1/Asns/Arg1/Reg3b,7
+GO:0009595,detection of biotic stimulus,3/132,32/13664,0.003561658,0.03715347,0.027186701,Trem2/Clec7a/Scarb1,3
+GO:0048745,smooth muscle tissue development,3/132,32/13664,0.003561658,0.03715347,0.027186701,Tnn/Efemp2/Itga8,3
+GO:0098703,calcium ion import across plasma membrane,3/132,32/13664,0.003561658,0.03715347,0.027186701,Ramp3/Trpv2/Agtr1a,3
+GO:0006959,humoral immune response,6/132,152/13664,0.003561677,0.03715347,0.027186701,Svep1/Trem2/Spon2/Fcgr2b/Reg3b/Lgals3,6
+GO:0010631,epithelial cell migration,9/132,316/13664,0.003566845,0.03715347,0.027186701,Ccn3/Ptn/Serpine1/Srpx2/Slit2/Snai2/Itgb2/Scarb1/Grem1,9
+GO:0001954,positive regulation of cell-matrix adhesion,4/132,65/13664,0.003573771,0.03715347,0.027186701,Thy1/Col16a1/Efemp2/Wnt4,4
+GO:0001960,negative regulation of cytokine-mediated signaling pathway,4/132,65/13664,0.003573771,0.03715347,0.027186701,Slit3/Slit2/Trem2/Arg1,4
+GO:0045123,cellular extravasation,4/132,65/13664,0.003573771,0.03715347,0.027186701,Thy1/Plvap/Adam8/Itgb2,4
+GO:0090132,epithelium migration,9/132,317/13664,0.003641661,0.037714215,0.027597021,Ccn3/Ptn/Serpine1/Srpx2/Slit2/Snai2/Itgb2/Scarb1/Grem1,9
+GO:0018108,peptidyl-tyrosine phosphorylation,7/132,205/13664,0.003751297,0.037839125,0.027688423,Thy1/Sfrp2/Cadm4/Itgb2/Trem2/Clec7a/Grem1,7
+GO:0002704,negative regulation of leukocyte mediated immunity,4/132,66/13664,0.003776292,0.037839125,0.027688423,Svep1/Arg1/Fcgr2b/Cd300a,4
+GO:0006801,superoxide metabolic process,4/132,66/13664,0.003776292,0.037839125,0.027688423,Itgb2/Clec7a/Agtr1a/Slc1a1,4
+GO:0071549,cellular response to dexamethasone stimulus,4/132,66/13664,0.003776292,0.037839125,0.027688423,Serpine1/Eln/Agtr1a/Arg1,4
+GO:0001837,epithelial to mesenchymal transition,6/132,154/13664,0.003797686,0.037839125,0.027688423,Col1a1/Sfrp2/Snai2/Adam8/Wnt4/Grem1,6
+GO:0002699,positive regulation of immune effector process,8/132,261/13664,0.003826289,0.037839125,0.027688423,Enpp3/Itgb2/Stxbp2/Trem2/Clec7a/Arg1/Spon2/Cd300a,8
+GO:0003401,axis elongation,3/132,33/13664,0.003890422,0.037839125,0.027688423,Sfrp2/Ptk7/Tnc,3
+GO:0090279,regulation of calcium ion import,3/132,33/13664,0.003890422,0.037839125,0.027688423,Serpine1/Trpv2/Lgals3,3
+GO:0150117,positive regulation of cell-substrate junction organization,3/132,33/13664,0.003890422,0.037839125,0.027688423,Thy1/Col16a1/Wnt4,3
+GO:0042698,ovulation cycle,5/132,108/13664,0.003929534,0.037839125,0.027688423,Slit3/Ptn/Slit2/Ptx3/Reg3b,5
+GO:0018212,peptidyl-tyrosine modification,7/132,207/13664,0.003956149,0.037839125,0.027688423,Thy1/Sfrp2/Cadm4/Itgb2/Trem2/Clec7a/Grem1,7
+GO:0002604,regulation of dendritic cell antigen processing and presentation,2/132,10/13664,0.003961699,0.037839125,0.027688423,Slc11a1/Cd68,2
+GO:0002924,negative regulation of humoral immune response mediated by circulating immunoglobulin,2/132,10/13664,0.003961699,0.037839125,0.027688423,Svep1/Fcgr2b,2
+GO:0008228,opsonization,2/132,10/13664,0.003961699,0.037839125,0.027688423,Ptx3/Spon2,2
+GO:0014062,regulation of serotonin secretion,2/132,10/13664,0.003961699,0.037839125,0.027688423,Cd300a/Lgals3,2
+GO:0033007,negative regulation of mast cell activation involved in immune response,2/132,10/13664,0.003961699,0.037839125,0.027688423,Enpp3/Cd300a,2
+GO:0033629,negative regulation of cell adhesion mediated by integrin,2/132,10/13664,0.003961699,0.037839125,0.027688423,Serpine1/Snai2,2
+GO:0034384,high-density lipoprotein particle clearance,2/132,10/13664,0.003961699,0.037839125,0.027688423,Trem2/Scarb1,2
+GO:0042117,monocyte activation,2/132,10/13664,0.003961699,0.037839125,0.027688423,Fn1/Cd33,2
+GO:0051712,positive regulation of killing of cells of another organism,2/132,10/13664,0.003961699,0.037839125,0.027688423,Clec7a/Arg1,2
+GO:0071421,manganese ion transmembrane transport,2/132,10/13664,0.003961699,0.037839125,0.027688423,Slc11a1/Slc39a8,2
+GO:1905664,regulation of calcium ion import across plasma membrane,2/132,10/13664,0.003961699,0.037839125,0.027688423,Ramp3/Agtr1a,2
+GO:0090130,tissue migration,9/132,322/13664,0.004034464,0.038398441,0.028097697,Ccn3/Ptn/Serpine1/Srpx2/Slit2/Snai2/Itgb2/Scarb1/Grem1,9
+GO:0001667,ameboidal-type cell migration,11/132,448/13664,0.004099321,0.038878819,0.028449209,Ccn3/Fn1/Ptn/Itga11/Serpine1/Srpx2/Slit2/Snai2/Itgb2/Scarb1/Grem1,11
+GO:0044703,multi-organism reproductive process,8/132,265/13664,0.004192502,0.039469597,0.028881505,Ptn/Serpine1/Sfrp4/Ctsb/Arg1/Plau/Reg3b/Wnt4,8
+GO:1905330,regulation of morphogenesis of an epithelium,4/132,68/13664,0.004204407,0.039469597,0.028881505,Snai2/Agtr1a/Wnt4/Grem1,4
+GO:0001958,endochondral ossification,3/132,34/13664,0.004237085,0.039469597,0.028881505,Col1a1/Mmp14/Runx2,3
+GO:0036075,replacement ossification,3/132,34/13664,0.004237085,0.039469597,0.028881505,Col1a1/Mmp14/Runx2,3
+GO:0090183,regulation of kidney development,3/132,34/13664,0.004237085,0.039469597,0.028881505,Agtr1a/Wnt4/Grem1,3
+GO:0002444,myeloid leukocyte mediated immunity,5/132,110/13664,0.004249224,0.039469597,0.028881505,Itgb2/Stxbp2/Arg1/Spon2/Cd300a,5
+GO:0050851,antigen receptor-mediated signaling pathway,6/132,158/13664,0.004304306,0.039844312,0.029155699,Thy1/Kcnn4/Cd8a/Fcgr2b/Cd300a/Lgals3,6
+GO:0060560,developmental growth involved in morphogenesis,8/132,267/13664,0.004385472,0.040457104,0.029604104,Tnn/Sfrp2/Fn1/Slit3/Ptk7/Slit2/Tnc/Trpv2,8
+GO:1901890,positive regulation of cell junction assembly,5/132,111/13664,0.004415845,0.040593265,0.029703739,Thy1/Col16a1/Srpx2/Slit2/Wnt4,5
+GO:0097006,regulation of plasma lipoprotein particle levels,4/132,69/13664,0.004430268,0.040593265,0.029703739,Trem2/Scarb1/Abca1/Soat1,4
+GO:1903532,positive regulation of secretion by cell,9/132,327/13664,0.00445976,0.040725445,0.02980046,Sdc1/Rab15/Scamp5/Itgb2/Stxbp2/Trem2/Kcnn4/Cd33/Lgals3,9
+GO:0090596,sensory organ morphogenesis,8/132,268/13664,0.004484491,0.040813394,0.029864816,Col11a1/Thy1/Cthrc1/Ptn/Ptk7/Ror2/Itga8/Slc1a1,8
+GO:0006816,calcium ion transport,10/132,390/13664,0.004548926,0.041260893,0.030192269,Cemip/Thy1/Serpine1/Ramp3/Trpv2/Kcnn4/Cd33/Agtr1a/Tmem37/Lgals3,10
+GO:0003176,aortic valve development,3/132,35/13664,0.004601929,0.041602051,0.030441908,Slit3/Eln/Slit2,3
+GO:0045669,positive regulation of osteoblast differentiation,4/132,70/13664,0.004664171,0.04181866,0.03060041,Cthrc1/Sfrp2/Runx2/Wnt4,4
+GO:0060761,negative regulation of response to cytokine stimulus,4/132,70/13664,0.004664171,0.04181866,0.03060041,Slit3/Slit2/Trem2/Arg1,4
+GO:0043269,regulation of monoatomic ion transport,11/132,456/13664,0.004677481,0.04181866,0.03060041,Cemip/Thy1/Serpine1/Ramp3/Trpv2/Stom/Cd33/Agtr1a/Cd300a/Tmem37/Lgals3,11
+GO:0030316,osteoclast differentiation,5/132,113/13664,0.004762983,0.04181866,0.03060041,Tmem178a/Tnfrsf11b/Trem2/Cd300lf/Ptprv,5
+GO:0042471,ear morphogenesis,5/132,113/13664,0.004762983,0.04181866,0.03060041,Col11a1/Cthrc1/Ptk7/Ror2/Itga8,5
+GO:0002366,leukocyte activation involved in immune response,8/132,271/13664,0.00479191,0.04181866,0.03060041,Enpp3/Itgb2/Stxbp2/Trem2/Clec7a/Slc11a1/Cd300a/Lgals3,8
+GO:0044706,multi-multicellular organism process,8/132,271/13664,0.00479191,0.04181866,0.03060041,Ptn/Serpine1/Sfrp4/Ctsb/Arg1/Plau/Reg3b/Wnt4,8
+GO:0002579,positive regulation of antigen processing and presentation,2/132,11/13664,0.004811544,0.04181866,0.03060041,Trem2/Slc11a1,2
+GO:0042487,regulation of odontogenesis of dentin-containing tooth,2/132,11/13664,0.004811544,0.04181866,0.03060041,Tnfrsf11b/Runx2,2
+GO:0043691,reverse cholesterol transport,2/132,11/13664,0.004811544,0.04181866,0.03060041,Scarb1/Abca1,2
+GO:0051709,regulation of killing of cells of another organism,2/132,11/13664,0.004811544,0.04181866,0.03060041,Clec7a/Arg1,2
+GO:0071873,response to norepinephrine,2/132,11/13664,0.004811544,0.04181866,0.03060041,Col1a2/Aplp1,2
+GO:0001819,positive regulation of cytokine production,11/132,459/13664,0.004910338,0.042404611,0.031029174,Serpine1/Il1rl1/Hpse/Scamp5/Adam8/Irf7/Trem2/Clec7a/Slc11a1/Agtr1a/Spon2,11
+GO:0036293,response to decreased oxygen levels,11/132,459/13664,0.004910338,0.042404611,0.031029174,Fndc1/Ptn/Serpine1/Eln/Slit2/Mmp14/Adam8/Trem2/Kcnn4/Plau/Slc1a1,11
+GO:0032692,negative regulation of interleukin-1 production,3/132,36/13664,0.004985221,0.042642574,0.031203301,Trem2/Cd33/Serpinb1a,3
+GO:0071827,plasma lipoprotein particle organization,3/132,36/13664,0.004985221,0.042642574,0.031203301,Scarb1/Abca1/Soat1,3
+GO:0090313,regulation of protein targeting to membrane,3/132,36/13664,0.004985221,0.042642574,0.031203301,Cemip/Stom/Slc1a1,3
+GO:0002263,cell activation involved in immune response,8/132,274/13664,0.005115287,0.043617098,0.0319164,Enpp3/Itgb2/Stxbp2/Trem2/Clec7a/Slc11a1/Cd300a/Lgals3,8
+GO:0050920,regulation of chemotaxis,7/132,218/13664,0.005238726,0.044529174,0.032583803,Ccn3/Fn1/Ptn/Serpine1/Slit2/Trem2/Grem1,7
+GO:0050852,T cell receptor signaling pathway,5/132,116/13664,0.005319457,0.045073647,0.032982216,Thy1/Kcnn4/Cd8a/Cd300a/Lgals3,5
+GO:0002446,neutrophil mediated immunity,3/132,37/13664,0.005387219,0.045082517,0.032988706,Itgb2/Stxbp2/Arg1,3
+GO:0002691,regulation of cellular extravasation,3/132,37/13664,0.005387219,0.045082517,0.032988706,Thy1/Plvap/Adam8,3
+GO:0033006,regulation of mast cell activation involved in immune response,3/132,37/13664,0.005387219,0.045082517,0.032988706,Enpp3/Stxbp2/Cd300a,3
+GO:0090322,regulation of superoxide metabolic process,3/132,37/13664,0.005387219,0.045082517,0.032988706,Itgb2/Clec7a/Agtr1a,3
+GO:0009064,glutamine family amino acid metabolic process,4/132,73/13664,0.005415424,0.045178678,0.033059071,Asns/Arg1/Slc39a8/Pycr1,4
+GO:0019058,viral life cycle,7/132,221/13664,0.005637376,0.046293693,0.033874973,Ctsb/Mx1/Ptx3/Cd300lf/Siglec1/Stom/Oasl,7
+GO:0001878,response to yeast,2/132,12/13664,0.005737472,0.046293693,0.033874973,Ptx3/Clec7a,2
+GO:0002756,MyD88-independent toll-like receptor signaling pathway,2/132,12/13664,0.005737472,0.046293693,0.033874973,Irf7/Cd300lf,2
+GO:0006828,manganese ion transport,2/132,12/13664,0.005737472,0.046293693,0.033874973,Slc11a1/Slc39a8,2
+GO:0030214,hyaluronan catabolic process,2/132,12/13664,0.005737472,0.046293693,0.033874973,Cemip/Gusb,2
+GO:0032490,detection of molecule of bacterial origin,2/132,12/13664,0.005737472,0.046293693,0.033874973,Trem2/Scarb1,2
+GO:0033689,negative regulation of osteoblast proliferation,2/132,12/13664,0.005737472,0.046293693,0.033874973,Tnn/Grem1,2
+GO:0033690,positive regulation of osteoblast proliferation,2/132,12/13664,0.005737472,0.046293693,0.033874973,Cthrc1/Hpse,2
+GO:0035821,modulation of process of another organism,2/132,12/13664,0.005737472,0.046293693,0.033874973,Clec7a/Arg1,2
+GO:0090179,planar cell polarity pathway involved in neural tube closure,2/132,12/13664,0.005737472,0.046293693,0.033874973,Sfrp2/Ptk7,2
+GO:0097501,stress response to metal ion,2/132,12/13664,0.005737472,0.046293693,0.033874973,Slc11a1/Slc39a8,2
+GO:0002455,humoral immune response mediated by circulating immunoglobulin,3/132,38/13664,0.005808165,0.046585965,0.03408884,Svep1/Trem2/Fcgr2b,3
+GO:0002920,regulation of humoral immune response,3/132,38/13664,0.005808165,0.046585965,0.03408884,Svep1/Trem2/Fcgr2b,3
+GO:0034329,cell junction assembly,10/132,406/13664,0.006003279,0.04800847,0.035129745,Thy1/Fn1/Col16a1/Pkp1/Srpx2/Slit2/Snai2/Mmp14/Wnt4/Grem1,10
+GO:0032355,response to estradiol,7/132,224/13664,0.006058374,0.048306146,0.035347567,Col1a1/Ptn/Sfrp4/Ramp3/Fcgr2b/Reg3b/Wnt4,7
+GO:0002688,regulation of leukocyte chemotaxis,5/132,120/13664,0.006131036,0.048741739,0.035666308,Ccn3/Ptn/Serpine1/Slit2/Grem1,5
+GO:0010721,negative regulation of cell development,8/132,283/13664,0.006186475,0.049038246,0.035883274,Thy1/Tmem178a/Ptn/Cdkn2b/Slit2/Snai2/Tnfrsf11b/Trem2,8
+GO:0042119,neutrophil activation,3/132,39/13664,0.00624829,0.049096305,0.035925758,Itgb2/Stxbp2/Cd300a,3
+GO:0071825,protein-lipid complex organization,3/132,39/13664,0.00624829,0.049096305,0.035925758,Scarb1/Abca1/Soat1,3
+GO:1905332,positive regulation of morphogenesis of an epithelium,3/132,39/13664,0.00624829,0.049096305,0.035925758,Agtr1a/Wnt4/Grem1,3
+GO:0051897,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,6/132,171/13664,0.006298352,0.049335878,0.036101063,Fn1/Ramp3/Hpse/Adam8/Ror2/Trem2,6
+GO:0045765,regulation of angiogenesis,8/132,284/13664,0.006315284,0.049335878,0.036101063,Tnn/Sfrp2/Ptn/Serpine1/Itgb2/Agtr1a/Grem1/Lgals3,8
+GO:0051047,positive regulation of secretion,9/132,346/13664,0.006404071,0.049852031,0.036478753,Sdc1/Rab15/Scamp5/Itgb2/Stxbp2/Trem2/Kcnn4/Cd33/Lgals3,9
+GO:0001558,regulation of cell growth,10/132,410/13664,0.006418241,0.049852031,0.036478753,Sfrp2/Ccn3/Fn1/Slit3/Igfbp4/Slit2/Mmp14/Tnc/Trpv2/Grem1,10
